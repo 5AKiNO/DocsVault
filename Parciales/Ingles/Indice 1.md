@@ -1,0 +1,102 @@
+# Clase 1. Skimming y Scanning
+- skimming 
+	- Técnicas de identificación de la idea principal: "Skimming".
+	- PASOS PARA REALIZAR ¨SKIMMING¨
+		- ejemplo de SKIMMING
+- Scanning
+	- Técnicas de identificación del contenido específico: "Scanning"
+	- PASOS PARA REALIZAR"SCANNING"
+		- ejemplo de SCANNING
+
+---
+# Clase 2. MAIN IDEA - SPECIFIC CONTENT - PHYSICAL AND CONCEPTUAL PARAGRAPH
+- Desarrollo de la idea principal y el contenido específico
+	- Pasos para desarrollar la idea principal y el contenido específico
+		- Ejemplo
+- Párrafo físico y párrafo conceptual
+	- Distinguir párrafos físicos y conceptuales
+		- Párrafos físicos
+		- Párrafos conceptuales
+# Clase 3. IRRELEVANT AND REDUNDANT INFORMATION
+- Desarrollo de la idea principal y el contenido específico
+	- Pasos para desarrollar la idea principal y el contenido específico
+		- ejemplo
+	- Pasos para desarrollar la idea principal y el contenido específico
+		- ejemplos
+- Distinguir párrafos físicos y conceptuales
+- 
+# Clase 4. COHERENCE AND COHESION
+- Concepto de coherencia y cohesión en el texto
+- Coherence and Cohesion: Building Blocks of Effective Technical
+	- Coherence
+		- Coherence Strategies
+		- Elements of coherence
+		- Examples of coherence
+			- Progreso lógico de las ideas
+				- Ejemplo incorrecto
+				- Ejemplo correcto
+					- Explicación
+			- Desarrollo de ideas principales
+				- Ejemplo incorrecto
+				- Ejemplo correcto
+					- Explicación
+			- Mantenimiento de un enfoque consistente
+				- Ejemplo incorrecto
+				- Ejemplo correcto
+					- Explicación
+	- Cohesion
+		- Cohesion Techniques
+		- Conectores lógicos
+		- Pronombres
+		- Sinónimos
+		- Estructuras paralelas
+		- •Referencias
+		- ejemplos de texto
+			- sin COHESIÓN
+			- con COHESIÓN
+		- ejemplos de cohesion
+			- Referencia a palabras clave
+			- Uso de estructuras paralelas
+			- Uso de marcadores textuales
+# Clase 5. Conectores lógicos
+- Definition
+- Function
+- There area two types of logical conjunctions
+	- Coordinating Conjunctions
+		- uso
+		- ejemplos
+	- Subordinating Conjunctions
+		- uso
+		- ejemplos
+# Clase 6. DISPOSITIVOS DE COHESIÓN 
+- COHESIVE DEVICES
+	- What are Cohesive Devices?
+		- Examples
+	- Types of Cohesive
+		- Referents
+			- Referents – Example
+		- Substitution
+			- Substitution – Example
+		- Ellipsis
+			- Ellipsis – Example
+		- Conjunctions
+			- Coordinating Conjunctions
+				- Examples
+			- Subordinating Conjunctions
+				- Examples
+		- Lexis
+			- Examples
+# Clase 7. Funciones del lenguaje
+- LA ORGANIZACIÓN DE LA INFORMACIÓN MEDIANTE LAS FUNCIONES COMUNICATIVAS
+	- Informative Function-Función informativa
+		- Ejemplos
+	- Expressive Function- Función expresiva
+		- Ejemplos
+	- Appellative Function- Función apelativa
+		- Ejemplos
+	- Phatic Function- Función fática
+		- Ejemplos
+	- Metalinguistic Function- Función metalingüística
+		- Ejemplos
+	- Poetic Function- Función poética
+		- Ejemplos

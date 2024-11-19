@@ -1,0 +1,7 @@
+[[Clase 1. Que es una Computadora]]
+[[Clase 2. Placa Madre]]
+[[Clase 3. Enfriamientos]]
+[[Clase 4. Conexiones Inalambricas]]
+[[Clase 5. Almacenamiento Masivo]]
+[[Clase 6. Representacion de la informacion]]
+[[Clase 7. Algoritmo - Diagrama de Flujo]]
