@@ -1,6 +1,0 @@
-[[CLASE 1. Concepto de programación. Especificación de algorítmos]]
-[[CLASE 2. Sistemas Operativos e IDEs]]
-[[CLASE 3. Elementos del Lenguaje de Programación Java]]
-[[CLASE 4. Operadores, Estructuras de Control y Clase Scanner]]
-[[CLASE 5. Estructuras Iterativas]]
-[[CLASE 6. Funciones y Arreglos]]
